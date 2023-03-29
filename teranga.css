@@ -165,4 +165,16 @@ font-size: 40px !important;
     font-weight: 700 !important;
     font-size: 20px !important;
     }
+    .navbar-collapse{
+        background-image: url('./engin-akyurt-IZj7vckPGiw-unsplas-removebg-preview\ \(1\).png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        color: black !important;
+        text-align: center !important;
+        font-weight: 400 !important;
+    }
+    .nav-link{
+        color: black !important;
+    font-weight: 900;    }
 }
